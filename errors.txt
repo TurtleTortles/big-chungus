@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 32: if statement expects a non-empty block.
+    if choice:
+              ^
+
+Ren'Py Version: Ren'Py 8.0.1.22070801
+Sun Jul 31 18:31:22 2022
